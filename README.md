@@ -7,3 +7,4 @@ This is the repository for the training with NCEAS Feb 25 - March 3 2021.
 * Lake Superior
 * Lake Heron
 
+The great lakes are pretty neat
